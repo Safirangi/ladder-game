@@ -34,3 +34,6 @@
 ## Resources
 - [Coin Toss Game using JavaScript](https://dev.to/shantanu_jana/coin-toss-game-using-javascript-css-1cf0)
 - [JavaScript Coin Toss Game](https://jsbeginners.com/coin-toss-game/)
+
+###### To do
+- add animations using javascript in this project.
